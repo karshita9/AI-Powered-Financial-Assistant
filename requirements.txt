@@ -1,0 +1,14 @@
+phidata
+openai
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+
+# NEW for visuals + UI
+matplotlib
+plotly
+streamlit
