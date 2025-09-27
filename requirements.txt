@@ -8,7 +8,9 @@ fastapi
 uvicorn
 groq
 
+
 # NEW for visuals + UI
 matplotlib
 plotly
 streamlit
+
