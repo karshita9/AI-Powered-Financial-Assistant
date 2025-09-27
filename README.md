@@ -20,3 +20,34 @@ Install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+Usage
+
+1.Clone the repo:
+
+git clone https://github.com/karshita9/AI-Powered-Financial-Assistant.git
+cd AI-Powered-Financial-Assistant
+
+2.Create a .env file with your API keys (do not push this file):
+
+GROQ_API_KEY=your_groq_key
+OPENAI_API_KEY=your_openai_key
+PHI_API_KEY=your_phiapi_key
+
+3.Run the app locally:
+
+streamlit run app.py
+
+4.Ask AI questions about any stock and see charts, trends, and summaries.
+
+Folder Structure
+AI-Powered-Financial-Assistant/
+├─ app.py
+├─ financial_agent.py
+├─ requirements.txt
+├─ .gitignore
+└─ README.md
+
+## License
+
+This project is **for learning and personal use**. Do not share API keys publicly.
