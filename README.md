@@ -21,7 +21,7 @@ Install the dependencies using:
 ```bash
 pip install -r requirements.txt
 
-## 
+## Usage
 
 1.Clone the repo:
 
