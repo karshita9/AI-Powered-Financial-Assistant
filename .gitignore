@@ -1,0 +1,19 @@
+# .gitignore (put at repo root)
+# Python / envs
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.env
+.env.*
+.venv/
+venv/
+pip-wheel-metadata/
+# Streamlit secrets (do NOT commit)
+.streamlit/secrets.toml
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
